@@ -41,7 +41,7 @@ def solution_05():
         fill_mode='nearest'
     )
 
-    # train_generator= ImageDataGenerator(rescale=1./255)
+    train_generator= ImageDataGenerator(rescale=1./255)
     
     # YOUR CODE HERE
 
